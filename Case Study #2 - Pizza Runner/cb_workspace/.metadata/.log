@@ -1,0 +1,240 @@
+!SESSION 2023-08-07 06:42:51.912 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 06:42:54.395
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 06:53:45.707 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 06:53:48.279
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 06:59:42.080 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 06:59:44.792
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 07:48:55.515 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 07:48:58.150
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 08:22:03.188 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 08:22:05.830
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 14:32:56.141 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 14:32:58.723
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 14:43:53.464 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 14:43:56.456
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 14:47:13.506 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 14:47:16.831
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 14:49:27.952 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 14:49:31.763
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 14:57:54.762 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 14:57:57.561
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 15:06:46.266 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 15:06:49.753
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 15:08:57.650 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 15:09:00.748
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 15:20:35.750 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 15:20:38.890
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 15:25:09.784 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 15:25:12.714
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 15:33:13.457 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 15:33:16.693
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-07 15:41:23.059 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-07 15:41:27.017
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-08 09:39:27.235 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-08 09:39:31.647
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-08 10:24:40.157 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-08 10:24:42.671
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-08 10:28:24.234 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-08 10:28:26.919
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-08 10:30:42.195 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-08 10:30:45.160
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-08 10:34:16.003 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-08 10:34:18.416
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-12 05:20:29.516 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-12 05:20:33.669
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-12 07:00:41.364 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-12 07:00:44.038
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2023-08-13 00:49:13.384 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en
+Framework arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+Command-line arguments:  -product io.cloudbeaver.product.ce.product -web-config conf/cloudbeaver.conf -registryMultiLanguage
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-08-13 00:49:18.623
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
