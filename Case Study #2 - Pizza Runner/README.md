@@ -64,6 +64,17 @@ All scripts are [here](cb_workspace/GlobalConfiguration/)
 
 * [What is the successful delivery percentage for each runner?](cb_workspace/GlobalConfiguration/Runner_and_Customer_Experience_Q07.sql)
 
+### 4️⃣ Ingredient Optimization
+
+* [What are the standard ingredients for each pizza?](cb_workspace/GlobalConfiguration/Ingredient_Optimisation_Q01.sql)
+* [What was the most commonly added extra?](cb_workspace/GlobalConfiguration/Ingredient_Optimisation_Q02.sql)
+* [What was the most common exclusion?](cb_workspace/GlobalConfiguration/Ingredient_Optimisation_Q03.sql)
+* [Generate an order item for each record in the customers_orders table in the format of one](cb_workspace/GlobalConfiguration/Ingredient_Optimisation_Q04.sql) of the following:
+  * Meat Lovers
+  * Meat Lovers - Exclude Beef
+  * Meat Lovers - Extra Bacon
+  * Meat Lovers - Exclude Cheese, Bacon - Extra Mushroom, Peppers
+
 ## How to start
 
 - Step 1
