@@ -10,7 +10,7 @@ My solution is to create a cleaned up `VIEW` of those tables.
 
 ## Details
 
-The data is loaded into a MySQL database running in a docker container. The queries are written in a CloudBeaver (a cloud IDE) running in another docker container.
+The data is loaded into a MySQL database running in a docker container. The queries are written in CloudBeaver (a cloud IDE) running in another docker container.
 
 The containers are configured to load the data at initialization in the database.
 
