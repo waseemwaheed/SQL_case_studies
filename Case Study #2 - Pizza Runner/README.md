@@ -1,4 +1,4 @@
-# Danny's diner case study
+# Pizza Runner case study
 
 [Case study description](https://8weeksqlchallenge.com/case-study-2/)
 
@@ -10,9 +10,9 @@ My solution is to create a cleaned up `VIEW` of those tables.
 
 ## Details
 
-The date is loaded into a MySQL database running in a docker container. The queries are written in a CloudBeaver (a cloud IDE) running in another docker container. 
+The data is loaded into a MySQL database running in a docker container. The queries are written in a CloudBeaver (a cloud IDE) running in another docker container.
 
-The containers are configured to load the data at initialization in the MySQL database. 
+The containers are configured to load the data at initialization in the database.
 
 ## Scripts
 
@@ -75,10 +75,10 @@ All scripts are [here](cb_workspace/GlobalConfiguration/)
 - Step 2
   Head over to [http://localhost:8080]()
 
-- Step 3 
+- Step 3
   Click on `Settings` icon at the top left corner and choose login 
 
-- Step 4 
+- Step 4
   Use the credentials 
   
   ```
@@ -86,7 +86,7 @@ All scripts are [here](cb_workspace/GlobalConfiguration/)
     password: 1
   ```
 
-![](\assets\2023-08-12-16-23-58-image.png)
+![screenshot](\assets\2023-08-12-16-23-58-image.png)
 
 ## How to stop
 
