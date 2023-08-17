@@ -98,7 +98,7 @@ All scripts are [here](cb_workspace/GlobalConfiguration/)
     password: 1
   ```
 
-![screenshot](\assets\2023-08-12-16-23-58-image.png)
+![screenshot](assets/2023-08-12-16-23-58-image.png)
 
 ## How to stop
 
