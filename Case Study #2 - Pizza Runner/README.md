@@ -74,6 +74,7 @@ All scripts are [here](cb_workspace/GlobalConfiguration/)
   * Meat Lovers - Exclude Beef
   * Meat Lovers - Extra Bacon
   * Meat Lovers - Exclude Cheese, Bacon - Extra Mushroom, Peppers
+* [Generate an alphabetically ordered comma separated ingredient list for each pizza order from the customer_orders table and add a 2x in front of any relevant ingredients](cb_workspace/GlobalConfiguration/Ingredient_Optimisation_Q05.sql) For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
 
 ## How to start
 
