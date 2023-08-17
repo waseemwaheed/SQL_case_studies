@@ -54,7 +54,7 @@ The containers are configured to load the data at initialization in the database
     password: 1
   ```
 
-![screenshot](\assets\2023-08-12-16-23-58-image.png)
+![screenshot](assets/2023-08-12-16-23-58-image.png)
 
 ## How to stop
 
