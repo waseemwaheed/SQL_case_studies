@@ -74,7 +74,34 @@ All scripts are [here](cb_workspace/GlobalConfiguration/)
   * Meat Lovers - Exclude Beef
   * Meat Lovers - Extra Bacon
   * Meat Lovers - Exclude Cheese, Bacon - Extra Mushroom, Peppers
-* [Generate an alphabetically ordered comma separated ingredient list for each pizza order from the customer_orders table and add a 2x in front of any relevant ingredients](cb_workspace/GlobalConfiguration/Ingredient_Optimisation_Q05.sql) For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
+* [Generate an alphabetically ordered comma separated ingredient list for each pizza order from the customer_orders table and add a 2x in front of any relevant ingredients](cb_workspace/GlobalConfiguration/Ingredient_Optimisation_Q05.sql)
+  * For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
+
+### 5️⃣ Pricing and Ratings
+
+* [If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes how much money has Pizza Runner made so far if there are no delivery fees?](cb_workspace/GlobalConfiguration/Pricing_and_Ratings_Q01.sql)
+
+* [What if there was an additional $1 charge for any pizza extras? For example, add cheese is $1 extra](cb_workspace/GlobalConfiguration/Pricing_and_Ratings_Q02.sql)
+
+* [The Pizza Runner team now wants to add an additional ratings system that allows customers to rate their runner, how would you design an additional table for this new dataset - generate a schema for this new table and insert your own data for ratings for each successful customer order between 1 to 5.](cb_workspace/GlobalConfiguration/Pricing_and_Ratings_Q03.sql)
+
+* [Using your newly generated table - can you join all of the information together to form a table which has the following information for successful deliveries?](cb_workspace/GlobalConfiguration/Pricing_and_Ratings_Q04.sql)
+  * customer_id
+  * order_id
+  * runner_id
+  * rating
+  * order_time
+  * pickup_time
+  * Time between order and pickup
+  * Delivery duration
+  * Average speed
+  * Total number of pizzas
+
+* [If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?](cb_workspace/GlobalConfiguration/Pricing_and_Ratings_Q05.sql)
+
+### 6️⃣ Bonus question
+
+* [If Danny wants to expand his range of pizzas - how would this impact the existing data design? Write an `INSERT` statement to demonstrate what would happen if a new Supreme pizza with all the toppings was added to the Pizza Runner menu?](cb_workspace/GlobalConfiguration/Bonus.sql)
 
 ## How to start
 
